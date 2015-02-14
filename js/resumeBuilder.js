@@ -1,16 +1,16 @@
 
 var bio = {"name": 'Maximiliano Paz', "role": "Budget Analyst",
-            "contacts":  {"mobile": "(591)-75851523", "email" : "maxpaz2004@hotmail.com",
-            "location": "Av. Desaguadero, La Paz,bolivia"}, "picture": "images/myphoto.jpg", "welcome": "Welcome, this is my updated CV",
-            "skills": ["Finance","Accounting", "Budgeting","Financial modeling", "Data Analysis","Programming","Microsoft Office","Visual Basic", "Python", "Javascript", "R language", "SQL" ] };
+            "contacts":  {"mobile": "(591)-75851523", "email" : "maxpaz2004@gmail.com",
+            "location": "Av. Desaguadero, La Paz,bolivia"}, "picture": "images/myphoto.jpg", "welcome": "Bienvenido!!!",
+            "skills": ["Finance","Accounting", "Budgeting","Data Analysis","Programming", "Python", "Javascript", "R language", "SQL" ] };
 var work = {"jobs":[
     {
         "employer": "American Embassy - La Paz",
         "title": "Budget Analist",
         "location": "Av. 6 de Agosto, La Paz, Bolivia",
         "dates": "6/01/2014-Current",
-        "description": "Provides full financial services for OBO (Overrseas Building Operations) and accounting services for PD (Public Diplomacy) and APHIS (Animal Plant Health Inspection Services). Prepares financial reports for PD and records obligations in RFMS. Serves as back-up to the "
-+ " budget analysts for ICASS, Program, Rep, MSG, DS and DAO allotments. Manages the post-specific software eFMO and Utility Billing System. Inputs all data and manages all user information for both systems, monitors data integrity, and makes corrections."    },
+        "description": "Prepare budget reports, accounting, eFMO system adminitrator, arrange utility payments"
+    },
     {
         "employer": "American Embassy - La Paz",
         "title": "Travel Voucher Examiner",
