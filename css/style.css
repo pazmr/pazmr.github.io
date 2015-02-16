@@ -2,6 +2,9 @@
   padding:0;
   margin:0;
   font-family: 'Roboto', sans-serif;
+  max-width: 1500px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .clearfix {
@@ -15,7 +18,7 @@
 
 h1 {
   font-size: 40px;
-  color: #F5A623;
+  color: #027373;
   line-height: 48px;
   display: inline;
 }
@@ -23,7 +26,7 @@ h1 {
 h2 {
   font-weight: bold;
   font-size: 24px;
-  color: #999999;
+  color: #027373;
   line-height: 29px;
   padding: 10px;
 }
@@ -73,7 +76,7 @@ p {
 }
 
 a {
-  color: #1199C3;
+  color: #027373;
   text-decoration: none;
   margin-top: 10px;
   display: block;
@@ -82,26 +85,27 @@ a {
 .welcome-message {
   font-style: italic;
   font-size: 18px;
-  color: #F3F3F3;
+  font-weight: bold;
+  color: #013440;
   line-height: 28px;
 }
 
 #skillsH3 {
-  color: #F5AE23;
+  color: #027373;
   display: none;
 }
 
 .orange {
-  background-color: #F5AE23;
+  background-color: #F3F3F3;
 }
 
 .orange-text {
-  color: #F5AE23;
+  color: #027373;
 }
 
 .white-text {
   font-weight: bold;
-  color: #FFFFFF;
+  color: #013440;
 }
 
 .gray {
@@ -116,7 +120,7 @@ a {
 
 /* TODO: Replace with image later */
 #header {
-  background-color: #484848;
+  background-color: #F3F3F3;
 }
 
 .flex-box {
@@ -148,24 +152,28 @@ ul {
 
 img {
   padding: 10px;
+  
+}
+.logoPic{
+  max-width: 5%;
 }
 
-/* Bar chart stuff */
-.chart div {
-  font: 10px sans-serif;
-  background-color: #4A4A4A;
-  text-align: right;
-  padding: 3px;
-  margin: 1px;
-  height: 12px;
-  color: white;
-  display: inline-block;
-}
 
 span {
   padding: 5px;
+  color: #013440;
 }
-
+.icon {
+ 
+  max-width: 5%;
+  display: inline
+}
+#mailto {
+  padding: 5px;
+  color: #013440;
+  font-weight: bold;
+  display: inline;
+}
 #letsConnect {
   text-align: center;
 }
@@ -196,6 +204,7 @@ span {
 
 #map {
   display: block;
+  
   height: 100%;
   margin-left: 5%;
   margin-right: 5%;
@@ -203,8 +212,19 @@ span {
 
 #mapDiv {
   height: 400px;
+  
   width: 100%;
+  
   padding-bottom: 5%;
+}
+.chart rect {
+  fill: #027373;
+}
+
+.chart text {
+  fill: white;
+  font: 10px sans-serif;
+  text-anchor: end;
 }
 
 @media only screen and (min-width: 750px) {
@@ -213,3 +233,4 @@ span {
     display: block;
   }
 }
+

@@ -1,0 +1,37 @@
+type,skill,value
+Languajes,Spanish,100
+Languajes,English,90
+Languajes,French,30
+office,excel,100
+office,access,80
+office,word,80
+office,Power Point,80
+office,Visio,70
+office,Projects,70
+office,Cristal Ball,80
+databases,SQL,80
+programming,Python,90
+programming,Javascript,70
+programming,ruby,50
+programming,css,60
+programming,html,70
+programming,C#,40
+programming,Visual Basic,70
+programming,R,70
+programming,Java,30
+other,SAP,65
+other,prezi,80
+other,ERP online software,80
+other,Photoshop,70
+other,Eclipse IDE,40
+other,Unity 3D,40
+other,cartooning,65
+Finance,Accounting,100
+Finance,Audit,100
+Finance,Corporate Finance,100
+Finance,Taxes,100
+Finance,International Accounting,95
+Finance,Financial Modeling,95
+Finance,Budgeting,95
+Finance,data analysis,90
+Finance,Machine Learning,60
