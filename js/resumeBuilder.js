@@ -175,7 +175,13 @@ var education = {
                 "school": "Edx",
                 "dates": 2013,
                 "url": "http://edx.org/"
-            }    
+            },
+            {
+                "title": "Introduction to computer science V2",
+                "school": "Edx",
+                "dates": 2013,
+                "url": "http://edx.org/"
+            }
             ],
             "display": function () {
                 if (education.schools.length > 0){
